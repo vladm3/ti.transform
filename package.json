@@ -1,6 +1,6 @@
 {
   "name": "ti.transform",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Titanium CLI plugin that allows you to transform your source files the way you want",
   "keywords": [
     "appcelerator",
